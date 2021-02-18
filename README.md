@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Mestrando em Computação na Universidade Federal Fluminense, Especialista em Educação e Tecnologia no IFNMG - Montes Claros, graduação em Análise e Desenvolvimento de Sistemas pelo IFNMG – Campus Januária. 
+
+Possuo experiência em Informática na Educação, Desenvolvimento de Sistemas, Gerenciamento de Projetos, Desenvolvimento de Jogos utilizando Unity e Unreal Engine, além de
+experiência em Ciência da Computação e Engenharia de Software. Possuo conhecimento em Java, C#, C++, além de avançado conhecimento com criação de designs, edição de imagens (Corel Draw, Adobe Fireworks), e habilidades com relações interpessoais e persuasivas. 
+
+<br>
+<a href="https://www.linkedin.com/in/rrafaelramos/" target="_blank"><img src="https://github.com/rrafaelramos/rrafaelramos/blob/main/linkedin.jpg"></a>
+<a href="https://www.instagram.com/rrafael_ramos/" target="_blank"><img src="https://github.com/rrafaelramos/rrafaelramos/blob/main/instagram.jpg"></a>
