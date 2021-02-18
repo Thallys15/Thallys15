@@ -21,5 +21,5 @@ Possuo experiência em Informática na Educação, Desenvolvimento de Sistemas, 
 experiência em Ciência da Computação e Engenharia de Software. Possuo conhecimento em Java, C#, C++, além de avançado conhecimento com criação de designs, edição de imagens (Corel Draw, Adobe Fireworks), e habilidades com relações interpessoais e persuasivas. 
 
 <br>
-<a href="https://www.linkedin.com/in/rrafaelramos/" target="_blank"><img src="https://github.com/rrafaelramos/rrafaelramos/blob/main/linkedin.jpg"></a>
-<a href="https://www.instagram.com/rrafael_ramos/" target="_blank"><img src="https://github.com/rrafaelramos/rrafaelramos/blob/main/instagram.jpg"></a>
+<a href="https://www.linkedin.com/in/th%C3%A1llys-lisboa-27910bb4/" target="_blank"><img src="https://github.com/rrafaelramos/rrafaelramos/blob/main/linkedin.jpg"></a>
+
